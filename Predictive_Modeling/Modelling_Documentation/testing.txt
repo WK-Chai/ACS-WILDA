@@ -1,0 +1,3 @@
+##Just setting things up
+##Provide a document (e.g., PDF or Word) specifying the architecture of the ANN model, 
+-->including details of input, hidden, and output layers optimised for predictive performance.
